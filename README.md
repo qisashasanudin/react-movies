@@ -2,13 +2,16 @@
 
 ## In-app screenshots:
 
-Main page:
+### Main page:
 ![](assets/screenshots/screenshot1.png) 
-Search Results:
+
+### Search Results:
 ![](assets/screenshots/screenshot2.png) 
-Movie Details:
+
+### Movie Details:
 ![](assets/screenshots/screenshot3.png) 
-Cast:
+
+### Cast:
 ![](assets/screenshots/screenshot4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
