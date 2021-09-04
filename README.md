@@ -1,6 +1,8 @@
 # React Movies
 
+## In-app screenshots:
 
+![](assets/screenshots/screenshot1.png) ![](assets/screenshots/screenshot2.png) ![](assets/screenshots/screenshot3.png) ![](assets/screenshots/screenshot4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
