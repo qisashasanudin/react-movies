@@ -1,4 +1,5 @@
-# React Movies
+# Sedih Movie Database
+https://sedih-mdb.vercel.app/
 
 ## In-app screenshots:
 
