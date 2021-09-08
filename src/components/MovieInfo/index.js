@@ -7,7 +7,7 @@ import Thumb from "../Thumb";
 import Rate from "../Rate";
 
 // config
-import { API_KEY, IMAGE_BASE_URL, POSTER_SIZE } from "../../config";
+import { IMAGE_BASE_URL, POSTER_SIZE } from "../../config";
 
 // image
 import NoImage from "../../images/no_image.jpg";
