@@ -46,7 +46,7 @@ const Login = () => {
 
   return (
     <Wrapper>
-      {error && <div className="error">There was an error!</div>}
+      {error && <div className="error">Login failed.</div>}
       <label>Username: </label>
       <input
         type="text"
