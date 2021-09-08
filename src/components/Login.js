@@ -39,6 +39,7 @@ const Login = () => {
   const handleInput = (e) => {
     const name = e.currentTarget.name;
     const value = e.currentTarget.value;
+    console.log(_user.username);
 
     if (name === "username") setUsername(value);
     if (name === "password") setPassword(value);
